@@ -1,0 +1,343 @@
+{
+  "participants": [
+    {
+      "name": "Moksh Shah"
+    },
+    {
+      "name": "Ishan Nikam"
+    },
+    {
+      "name": "Nikitha Nagumalli"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667949371395,
+      "content": "https://illinois.zoom.us/j/82138936660?pwd=bUpwendHVGlyY0VRQmZCMHBQeVRrdz09",
+      "share": {
+        "link": "https://illinois.zoom.us/j/82138936660?pwd=bUpwendHVGlyY0VRQmZCMHBQeVRrdz09"
+      },
+      "type": "Share",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "https://illinois.zoom.us/j/82138936660?pwd=bUpwendHVGlyY0VRQmZCMHBQeVRrdz09",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667949095773,
+      "content": "im logging into zoom rn",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "im logging into zoom rn",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667949090344,
+      "content": "im ready",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "im ready",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Moksh Shah",
+      "timestamp_ms": 1667948809239,
+      "content": "me too",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "me too",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667948784547,
+      "content": "I'm ready whenever",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I'm ready whenever",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667948360251,
+      "content": "Nikitha reacted \u00f0\u009f\u0091\u008d to your message ",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667948357181,
+      "content": "zoom it is",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "zoom it is",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667948354055,
+      "content": "yea bet",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "yea bet",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667948347772,
+      "content": "We can do virtual?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "We can do virtual?",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667948341874,
+      "content": "oh shit",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "oh shit",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667948313559,
+      "content": "I forgot, all the school buildings are closed today",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I forgot, all the school buildings are closed today",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667948301802,
+      "content": "graingers closed",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "graingers closed",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667948287445,
+      "content": "be there in 15",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "be there in 15",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667933111655,
+      "content": "sounds good",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "sounds good",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667932935570,
+      "content": "grainger at 5? I can do like 5-7",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Moksh Shah"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Moksh Shah"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "grainger at 5? I can do like 5-7",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667932899460,
+      "content": "Nikitha reacted \u00f0\u009f\u0091\u008d to your message ",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667932745553,
+      "content": "down for 5 today",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "down for 5 today",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Moksh Shah",
+      "timestamp_ms": 1667929934564,
+      "content": "either works for me",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Nikitha Nagumalli"
+        }
+      ],
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "either works for me",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667875621107,
+      "content": "I can do tmrw like 5-9 and Wednesday before 5",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "I can do tmrw like 5-9 and Wednesday before 5",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667875311400,
+      "content": "we should meet today or tm bc imma be out of town after thursday",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "we should meet today or tm bc imma be out of town after thursday",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667874468209,
+      "content": "14th",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "14th",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Ishan Nikam",
+      "timestamp_ms": 1667874399949,
+      "content": "when\u00e2\u0080\u0099s it due",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "when\u00e2\u0080\u0099s it due",
+        "is_bumped": false
+      }
+    },
+    {
+      "sender_name": "Nikitha Nagumalli",
+      "timestamp_ms": 1667871829032,
+      "content": "hey, when do you guys wanna work on the next part of the project?",
+      "type": "Generic",
+      "is_unsent": false,
+      "is_taken_down": false,
+      "bumped_message_metadata": {
+        "bumped_message": "hey, when do you guys wanna work on the next part of the project?",
+        "is_bumped": false
+      }
+    }
+  ],
+  "title": "410 project",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/410project_oeo-is_now",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
