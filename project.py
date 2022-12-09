@@ -1,3 +1,5 @@
+# Author: Moksh Shah
+
 import json
 from collections import defaultdict
 from collections import Counter
@@ -13,8 +15,6 @@ def rankings(searchengineresult):
     counts = Counter(names)
 
     return dict(sorted(counts.items(), key=lambda item: item[1]))
-
-
 
 
 
@@ -37,6 +37,7 @@ def searchengine(wordstomes, query) :
 
 def main() :
 
+    print("Program Running. Press Ctrl+C to Exit")
     jsonfilename = input("Enter JSON File Name: ")
 
     with open(jsonfilename, "r") as read_file:
@@ -45,8 +46,6 @@ def main() :
     participants = []
     for i in range(len(data["participants"])):
         participants.append(data["participants"][i]["name"])
-
-    num_participants = len(participants)
 
     messages = []
     for i in range(len(data["messages"])):
@@ -60,16 +59,30 @@ def main() :
         for j in range(len(contentwords)):
             words_to_messages[contentwords[j]].append(messages[i])
             
-    q = input("Query: ")
+    while (True):
+    
+        query = input("Query: ")
+        searched_messages = searchengine(words_to_messages, query)
 
-    m = searchengine(words_to_messages, q)
+        for i in range(len(searched_messages)):
+            print("Result #: " + str(i + 1) + ", Name: " + searched_messages[i][0] + ", Content: " + searched_messages[i][1])   
 
-    for i in range(len(m)):
-        print("Result #: " + str(i + 1) + ", Name: " + m[i][0] + ", Content: " + m[i][1])   
+        f = rankings(searched_messages)
 
-    f = rankings(m)
-
-    print(f)
+        print(f)
 
 
-main()
+
+def exitmain() :
+    try :
+        main()
+
+    except KeyboardInterrupt:
+        print("\nExiting Program")
+
+    except FileNotFoundError:
+        print("File Not Found\n")
+        exitmain()
+
+
+exitmain()
