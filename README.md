@@ -19,3 +19,6 @@ In order to use this software, all the user needs to do is upload a json file of
  
 ## Brief description of contribution of each team member
 Every team member contributed to developing the code, we worked on the software together. Nikitha worked on the documentation. Ishan and Moksh worked on the presentation. All team member looked over each other's work and critiqued each other.
+
+## Video
+https://drive.google.com/file/d/1jr7QKcnlqXbx8PfoAnirB42qPkS_p87g/view?usp=sharing
